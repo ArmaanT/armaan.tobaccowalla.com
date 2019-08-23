@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/tags/machine-learning/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Thu, 22 Aug 2019 14:42:41 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>machine learning</title>
+      <link>https://armaan.tobaccowalla.com/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Speaker Recognition Utility</title>
+      <link>https://armaan.tobaccowalla.com/project/speaker-recognition/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/speaker-recognition/</guid>
+      <description>&lt;p&gt;As part of the &lt;a href=&#34;http://www.drew.edu/governors-school/&#34; target=&#34;_blank&#34;&gt;New Jersey Governor&amp;rsquo;s School in the Sciences&lt;/a&gt;, I helped design and build a speaker recognition utility that could identify the speaker of a specific keyword from a closed set of individuals. The program used machine learning and was 100% accurate in identifying individuals.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

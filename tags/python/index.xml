@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python | Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/tags/python/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>python</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Thu, 22 Aug 2019 14:42:41 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>python</title>
+      <link>https://armaan.tobaccowalla.com/tags/python/</link>
+    </image>
+    
+    <item>
+      <title>django-labs-accounts</title>
+      <link>https://armaan.tobaccowalla.com/project/django-labs-accounts/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/django-labs-accounts/</guid>
+      <description>&lt;p&gt;django-labs-accounts is a reusable Django app to automatically set up Penn Labs accounts on our Django backends. It consists of an OAuth2 client to communicate with &lt;a href=&#34;https://armaan.tobaccowalla.com/project/platform&#34;&gt;Platform&lt;/a&gt; and a user backend to log in users using Platform&amp;rsquo;s accounts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>docker-tox</title>
+      <link>https://armaan.tobaccowalla.com/project/docker-tox/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/docker-tox/</guid>
+      <description>&lt;p&gt;docker-tox is a custom tox docker image for use within CircleCI. It is used within Penn Labs to test our PyPI packages in multiple Python environments before publishing them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Penn Clubs</title>
+      <link>https://armaan.tobaccowalla.com/project/pennclubs/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/pennclubs/</guid>
+      <description>&lt;p&gt;Penn Clubs is Penn Labs product to democratize information about clubs. It uses &lt;a href=&#34;https://armaan.tobaccowalla.com/project/django-labs-accounts&#34;&gt;Penn Labs accounts&lt;/a&gt; to allow students at Penn to easily find information about clubs, their events, and applications. Penn Clubs also allows students to add themselves to clubs&amp;rsquo; mailing lists and join clubs as members. It is built using a Django backend and a React frontend.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>pfsense-to-influxdb</title>
+      <link>https://armaan.tobaccowalla.com/project/pfsense-to-influxdb/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/pfsense-to-influxdb/</guid>
+      <description>&lt;p&gt;pfsense-to-influxdb is a metric exporter from &lt;a href=&#34;https://www.pfsense.org/&#34; target=&#34;_blank&#34;&gt;pfSense&lt;/a&gt;, a software firewall, to &lt;a href=&#34;https://www.influxdata.com/&#34; target=&#34;_blank&#34;&gt;InfluxDB&lt;/a&gt;, a time series database. pfsense-to-influxdb was built to allow monitoring of pfSense within &lt;a href=&#34;https://grafana.com/&#34; target=&#34;_blank&#34;&gt;Grafana&lt;/a&gt;, a popular dashboard for metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Platform</title>
+      <link>https://armaan.tobaccowalla.com/project/platform/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/platform/</guid>
+      <description>&lt;p&gt;Platform is a backend API for all of Penn Labs&amp;rsquo; products. It is the brains of Penn Labs&amp;rsquo; account system which allows users to login through the University of Pennsylvania&amp;rsquo;s SSO provider (&lt;a href=&#34;https://www.shibboleth.net/&#34; target=&#34;_blank&#34;&gt;Shibboleth&lt;/a&gt;). Platform also provides information to dynamically render our &lt;a href=&#34;https://pennlabs.org/&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speaker Recognition Utility</title>
+      <link>https://armaan.tobaccowalla.com/project/speaker-recognition/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/speaker-recognition/</guid>
+      <description>&lt;p&gt;As part of the &lt;a href=&#34;http://www.drew.edu/governors-school/&#34; target=&#34;_blank&#34;&gt;New Jersey Governor&amp;rsquo;s School in the Sciences&lt;/a&gt;, I helped design and build a speaker recognition utility that could identify the speaker of a specific keyword from a closed set of individuals. The program used machine learning and was 100% accurate in identifying individuals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>https://armaan.tobaccowalla.com/project/templates/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/templates/</guid>
+      <description>&lt;p&gt;I made a collection of templates with Penn Labs&amp;rsquo; suggested configuration for various types of projects. These templates include configuration for testing, building, and deploying projects. As well as suggested application defaults.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wage Tracker</title>
+      <link>https://armaan.tobaccowalla.com/project/wage-tracker/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/wage-tracker/</guid>
+      <description>&lt;p&gt;I made an aggregate Wage Tracker for the US economy by reverse engineering a similar Goldman Sachs model. My model is built using the &lt;a href=&#34;https://en.wikipedia.org/wiki/Principal_component_analysis&#34; target=&#34;_blank&#34;&gt;first principal component&lt;/a&gt; of five common wage indicators.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

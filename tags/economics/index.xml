@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>economics | Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/tags/economics/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    <description>economics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Thu, 22 Aug 2019 14:42:41 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>economics</title>
+      <link>https://armaan.tobaccowalla.com/tags/economics/</link>
+    </image>
+    
+    <item>
+      <title>Wage Tracker</title>
+      <link>https://armaan.tobaccowalla.com/project/wage-tracker/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/wage-tracker/</guid>
+      <description>&lt;p&gt;I made an aggregate Wage Tracker for the US economy by reverse engineering a similar Goldman Sachs model. My model is built using the &lt;a href=&#34;https://en.wikipedia.org/wiki/Principal_component_analysis&#34; target=&#34;_blank&#34;&gt;first principal component&lt;/a&gt; of five common wage indicators.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

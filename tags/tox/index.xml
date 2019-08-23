@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tox | Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/tags/tox/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/tags/tox/index.xml" rel="self" type="application/rss+xml" />
+    <description>tox</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Thu, 22 Aug 2019 14:42:41 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>tox</title>
+      <link>https://armaan.tobaccowalla.com/tags/tox/</link>
+    </image>
+    
+    <item>
+      <title>docker-tox</title>
+      <link>https://armaan.tobaccowalla.com/project/docker-tox/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/docker-tox/</guid>
+      <description>&lt;p&gt;docker-tox is a custom tox docker image for use within CircleCI. It is used within Penn Labs to test our PyPI packages in multiple Python environments before publishing them.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

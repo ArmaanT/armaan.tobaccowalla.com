@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nginx | Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/tags/nginx/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <description>nginx</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Thu, 22 Aug 2019 14:42:41 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>nginx</title>
+      <link>https://armaan.tobaccowalla.com/tags/nginx/</link>
+    </image>
+    
+    <item>
+      <title>docker-shibboleth-sp-nginx</title>
+      <link>https://armaan.tobaccowalla.com/project/docker-shibboleth-sp-nginx/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/docker-shibboleth-sp-nginx/</guid>
+      <description>&lt;p&gt;docker-shibboleth-sp-nginx is a docker image base for &lt;a href=&#34;https://www.shibboleth.net/products/service-provider/&#34; target=&#34;_blank&#34;&gt;Shibboleth SP&lt;/a&gt; and &lt;a href=&#34;https://www.nginx.com/&#34; target=&#34;_blank&#34;&gt;nginx&lt;/a&gt;, it is based on Debian Buster (Slim). It is intended to be used as a base to easily create docker images with Shibboleth authentication. &lt;a href=&#34;https://armaan.tobaccowalla.com/project/platform&#34;&gt;Platform&lt;/a&gt; is built using docker-shibboleth-sp-nginx.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

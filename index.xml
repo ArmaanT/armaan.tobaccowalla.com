@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Armaan Tobaccowalla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Fri, 23 Aug 2019 00:25:08 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>Armaan Tobaccowalla</title>
+      <link>https://armaan.tobaccowalla.com/</link>
+    </image>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://armaan.tobaccowalla.com/posts/2019/08/23/hello-world/</link>
+      <pubDate>Fri, 23 Aug 2019 00:25:08 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/posts/2019/08/23/hello-world/</guid>
+      <description>&lt;p&gt;Hello world! This is my new website. It is generated using &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; and is using the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt;. Stay tuned for more content!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>django-labs-accounts</title>
+      <link>https://armaan.tobaccowalla.com/project/django-labs-accounts/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/django-labs-accounts/</guid>
+      <description>&lt;p&gt;django-labs-accounts is a reusable Django app to automatically set up Penn Labs accounts on our Django backends. It consists of an OAuth2 client to communicate with &lt;a href=&#34;https://armaan.tobaccowalla.com/project/platform&#34;&gt;Platform&lt;/a&gt; and a user backend to log in users using Platform&amp;rsquo;s accounts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>docker-shibboleth-sp-nginx</title>
+      <link>https://armaan.tobaccowalla.com/project/docker-shibboleth-sp-nginx/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/docker-shibboleth-sp-nginx/</guid>
+      <description>&lt;p&gt;docker-shibboleth-sp-nginx is a docker image base for &lt;a href=&#34;https://www.shibboleth.net/products/service-provider/&#34; target=&#34;_blank&#34;&gt;Shibboleth SP&lt;/a&gt; and &lt;a href=&#34;https://www.nginx.com/&#34; target=&#34;_blank&#34;&gt;nginx&lt;/a&gt;, it is based on Debian Buster (Slim). It is intended to be used as a base to easily create docker images with Shibboleth authentication. &lt;a href=&#34;https://armaan.tobaccowalla.com/project/platform&#34;&gt;Platform&lt;/a&gt; is built using docker-shibboleth-sp-nginx.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>docker-tox</title>
+      <link>https://armaan.tobaccowalla.com/project/docker-tox/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/docker-tox/</guid>
+      <description>&lt;p&gt;docker-tox is a custom tox docker image for use within CircleCI. It is used within Penn Labs to test our PyPI packages in multiple Python environments before publishing them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homelab</title>
+      <link>https://armaan.tobaccowalla.com/project/homelab/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/homelab/</guid>
+      <description>&lt;p&gt;My connected home network (or &lt;a href=&#34;https://www.reddit.com/r/homelab/wiki/introduction&#34; target=&#34;_blank&#34;&gt;Homelab&lt;/a&gt;) consists of 2 physical servers, a virtual-machine host (&lt;a href=&#34;https://www.proxmox.com/en/&#34; target=&#34;_blank&#34;&gt;Proxmox&lt;/a&gt;) and a File server (&lt;a href=&#34;https://www.freenas.org/&#34; target=&#34;_blank&#34;&gt;FreeNAS&lt;/a&gt;). Proxmox runs over 25 virtual machines and containers. The Homelab provides various services such as a software firewall, a remote SSH access server, a reverse proxy with &lt;a href=&#34;https://letsencrypt.org/&#34; target=&#34;_blank&#34;&gt;Lets Encrypt&lt;/a&gt; TLS certificates, a VPN server with certificate authentication, a wiki for internal documentation, a mail server to send external mail, and a home automation system. Some of the software using in my homelab is: FreeNAS, Gitlab, Grafana, InfluxDB, Jekyll, Mediawiki, MySQL, Nginx, OpenHAB, pfSense, Postfix, and Telegraf.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Penn Clubs</title>
+      <link>https://armaan.tobaccowalla.com/project/pennclubs/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/pennclubs/</guid>
+      <description>&lt;p&gt;Penn Clubs is Penn Labs product to democratize information about clubs. It uses &lt;a href=&#34;https://armaan.tobaccowalla.com/project/django-labs-accounts&#34;&gt;Penn Labs accounts&lt;/a&gt; to allow students at Penn to easily find information about clubs, their events, and applications. Penn Clubs also allows students to add themselves to clubs&amp;rsquo; mailing lists and join clubs as members. It is built using a Django backend and a React frontend.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>pfsense-to-influxdb</title>
+      <link>https://armaan.tobaccowalla.com/project/pfsense-to-influxdb/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/pfsense-to-influxdb/</guid>
+      <description>&lt;p&gt;pfsense-to-influxdb is a metric exporter from &lt;a href=&#34;https://www.pfsense.org/&#34; target=&#34;_blank&#34;&gt;pfSense&lt;/a&gt;, a software firewall, to &lt;a href=&#34;https://www.influxdata.com/&#34; target=&#34;_blank&#34;&gt;InfluxDB&lt;/a&gt;, a time series database. pfsense-to-influxdb was built to allow monitoring of pfSense within &lt;a href=&#34;https://grafana.com/&#34; target=&#34;_blank&#34;&gt;Grafana&lt;/a&gt;, a popular dashboard for metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Platform</title>
+      <link>https://armaan.tobaccowalla.com/project/platform/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/platform/</guid>
+      <description>&lt;p&gt;Platform is a backend API for all of Penn Labs&amp;rsquo; products. It is the brains of Penn Labs&amp;rsquo; account system which allows users to login through the University of Pennsylvania&amp;rsquo;s SSO provider (&lt;a href=&#34;https://www.shibboleth.net/&#34; target=&#34;_blank&#34;&gt;Shibboleth&lt;/a&gt;). Platform also provides information to dynamically render our &lt;a href=&#34;https://pennlabs.org/&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speaker Recognition Utility</title>
+      <link>https://armaan.tobaccowalla.com/project/speaker-recognition/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/speaker-recognition/</guid>
+      <description>&lt;p&gt;As part of the &lt;a href=&#34;http://www.drew.edu/governors-school/&#34; target=&#34;_blank&#34;&gt;New Jersey Governor&amp;rsquo;s School in the Sciences&lt;/a&gt;, I helped design and build a speaker recognition utility that could identify the speaker of a specific keyword from a closed set of individuals. The program used machine learning and was 100% accurate in identifying individuals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>https://armaan.tobaccowalla.com/project/templates/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/templates/</guid>
+      <description>&lt;p&gt;I made a collection of templates with Penn Labs&amp;rsquo; suggested configuration for various types of projects. These templates include configuration for testing, building, and deploying projects. As well as suggested application defaults.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wage Tracker</title>
+      <link>https://armaan.tobaccowalla.com/project/wage-tracker/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/wage-tracker/</guid>
+      <description>&lt;p&gt;I made an aggregate Wage Tracker for the US economy by reverse engineering a similar Goldman Sachs model. My model is built using the &lt;a href=&#34;https://en.wikipedia.org/wiki/Principal_component_analysis&#34; target=&#34;_blank&#34;&gt;first principal component&lt;/a&gt; of five common wage indicators.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://armaan.tobaccowalla.com/posts/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://armaan.tobaccowalla.com/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://armaan.tobaccowalla.com/pgp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://armaan.tobaccowalla.com/pgp/</guid>
+      <description>&lt;p&gt;To send me a secure message &lt;a href=&#34;https://armaan.tobaccowalla.com/files/ArmaanTobaccowalla.asc&#34; download&gt;download my PGP public key&lt;/a&gt; or copy and paste the text below:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBFtSd6kBEACip0QVuy9RIfmrWlr7wML4iOV2QjX8Ua2EN+HmAdy3CN0i3bTt
+YKZYL8t8IBVaAySIiuSfsDMtqMYYAcvnVnZIcWcQ+qzj0ATwcc1wDnt6nVu/+gwf
+d+6L6r4uHZvFwwKBuy+ZMDnEYJKORYLvTP7FfND/pQKlm2SOblJT3V9A6Vd4/6W4
+pyuwQMNb9rT3Vm1CUviYAhr+GSPNh4t7yOGJFw+hAp2qbQssLsR2Qp6zkooF9Lzi
+E5btiLb7q9O5rKKkBctFgyPryK/1WLf+BzGT2QwwjpM8tRVZ4526/MEhEt9lCoIW
+s618eWOxWRs4ox/Bc9LOEqt4d0WbMb1gkri/zxiAak5yfX2DW+lbaO3iESgh+9M/
+8RfnifMdJVbPOC5VsiU5oFQmc0PBXfVfgqG9lB/OQ8aLVF+uwRT0d4m35tv7hPny
+il5xyz/NExNAF/XEVX1guUGw/WTzfvp1L3A3X+Y3C3Qtw8OV3VlFmhUpmL2ARafm
+fcwqAHt8BbbupGRF+2Je27I/SD/HSsNbIBFnzpFHscmzDN8maqi84VhzQ8YwY9M9
+OOrfkWCYV7ykJjsW/mE/D3MbAx4JPJp3DcVOEI+zgnT39uAX0JXqXYwzxO8R3wdT
+iI9I4U5epBiJoHEPTOEo96hUC+UXebZXOmcUUGnnzT8v1kBfQufy8xEYEwARAQAB
+tC1Bcm1hYW4gVG9iYWNjb3dhbGxhIDxhcm1hYW5AdG9iYWNjb3dhbGxhLmNvbT6J
+Ak4EEwEKADgWIQTPUSR+GjYI4+18Jgek5yxycBr9/gUCW1J3qQIbAwULCQgHAgYV
+CgkICwIEFgIDAQIeAQIXgAAKCRCk5yxycBr9/i6iEACKf4wUPxMIy+1IRYInIvhq
+FYoegn1g07AxQqxIdpmTMvg4B2iNrP5CjPU92DqMzCX4Lv2TIV0YiiNDa43RS6WH
+4ECu8gnMSOfIe7L8i9ATtFeMQ5sBs/YLKwvO7pP0wheo0SeuUKLfbwfBMOGXg5LO
+5vMnMq2FdjBQMcbCfo1bCzuXdwhDtZ0l83vO8WbXWJ+JuiW3zR+K4kVQGwbi96ax
+hwvbl9/Qk1s+uCTqVWHUqrz2y09dkfeCeWkbAaugExRXMX8RP3AhimkVTZFezeD1
+o8pDfLGi5opBEe0EdGtTQdTQwYMbld/56RlggG5ncjsLUwr6fb2vTWUMkMMgm7yA
+AmOx3wPLCghLe73vXLe8+GX97jfDP5qMB1PEZiGnb9MrGQTJUKKnCoBFD8jwsUux
+PaFD/QxSzi9aTNYUGmJG0Ut+srdz3WCDpc/C/6bT8mdHTMeUjvqMlyL8GYkBEeGE
+ZFhneScsGUHHl6TrJeiqs7p9vjSov2XDXSFbuVBXMQd3wUog9TT3qHpvcuhb5hmH
+BfjkeeRB1QZw/6RsOKO+Kn0zGsP3VaLvWXPKsuUU8I3qOkmOo9d9LlfRp+e9SPI3
+KXV8swal6BK0OO1uQl8dWlfG/En31Bmc5jkgIPkToYLnneGMjBXNsj0DfiftxoGp
+T3OhakC0caYSoQQ18w403rkCDQRbUnepARAA4VMJb4nEBiAbB/X2ddiaNY6iW6ex
+eEv9CgTpL0YNn+fvCOv9Dn/n7S4sAIgLSOg1856N8KLjmDW7R90/0vJRNt1fCVBV
+7LRTaCY0IboFQbb0KxPWcrnLU+AM6vnaDWtuezIm8lU1CebMbThLGIp3xLnw9knI
+Siduu6rAu/nfx3EO3zxJGTvCuXrJBGcbgp9+G5FqKD4Jo0d3nX6QhikVlkajChEL
+jLY+XdN2MsnRGxg6LVSanYhWy1cAkhVQueNHdIaD7e5MDfKXdBI6CvzpL+IWdNiV
+TBumJy6dVCXiRyVcu95SFL7vc2z5FEnq1GvgH8+IcqWs6FOc22EcodeIZCc+t/FP
+AqWZwLAR2Uc15peHX7HgZ4BcFDAH/VtXrg3vK2zyVaGbuVdASdqYKWb8jrJpXtdt
+kM8m5uoqwlaYCpxk7kSr/JjymrAv5VJFf5JlaGECFgJVzQP2pKIerKpE4o+VU3gi
+kIFG5DSXC75aCGTxrvnkIwxS23yBr7HrMXSz2Lq4F8gErCLiOgKEvhzFlXyF1nPQ
+73b3XqHN+LmIfRFSCtBgrAFJqKZ1oPhHG9Qc2KHiESYUzeVBM0Q7JEq92hlYIj2I
+y4zBbNPGFBKRvaFalFDvq7vwCaqJONtwqSsspsEsjH1QF0HLWkmA9Ip5QF88SD6e
+Rtnw6qacicPDGK0AEQEAAYkCNgQYAQoAIBYhBM9RJH4aNgjj7XwmB6TnLHJwGv3+
+BQJbUnepAhsMAAoJEKTnLHJwGv3+8p4P/2myNbh53KvuU6NRw0tgleoeTqRLqtfj
+92lguUvoSQ8bcRfiUfktnDHISnIXmv0XffRZ53xRbGRaLpQWNozAA9gqvXO+2HjJ
+GLQvAo3ROP8WBmVgyq/TYXEOh8DpZcTSbtJhiz7GM9Gij5VdrYfA5drUuV8u4+ld
+OlObGpXuab0ALFkyhCCiy79mtjFhDrmtKeRRHRUhOZb/Ao/vfB3u9a5RQTrz/nSP
+ylfFw/bdsBMCQ2e/G32qRQEr+oE+G81cD56gPU628CnvbI2k/ynSLaN6iGWi5Y7P
+KIqP9QM34Vd0koKkkrCvhtIAVTgLxYM8jpQ176VhHNzKt/UvSY+aYKJE1H2nAX6j
+mqxxZgPQSiDnuJ6AlBBxUD52+v4xJaINV+mNjbpTRWW+xeGHIoNA+n5ckzjALpp3
+VXJpCci0UoVsDlNux6EibOVa4ebo+XsL/g4bDANsrcuX5eImelz841YA8XgARGgV
+eSCTcbrvxHsWNWhKw6w6ms8ek/5WaPgHkE+QO94jsT0c5DK7G68DGKhIG6qUn76H
+09YPcwWPNiOC2St692tLxobhs3j6o74zAvvFByyz8Y16i+AwgB/QeHsy+x1RkdKT
+po2G4bBVC4dIV+qX+uOCohcf+6I6uThcBFVwEdx5ZBdOjRJF0XRnR6JnjwWJpWg1
+ct5z5hwO+Kkn
+=FMM5
+-----END PGP PUBLIC KEY BLOCK-----
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://armaan.tobaccowalla.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://armaan.tobaccowalla.com/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

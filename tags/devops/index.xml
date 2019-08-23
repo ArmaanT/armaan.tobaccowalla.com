@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devops | Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/tags/devops/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <description>devops</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Thu, 22 Aug 2019 14:42:41 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>devops</title>
+      <link>https://armaan.tobaccowalla.com/tags/devops/</link>
+    </image>
+    
+    <item>
+      <title>docker-tox</title>
+      <link>https://armaan.tobaccowalla.com/project/docker-tox/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/docker-tox/</guid>
+      <description>&lt;p&gt;docker-tox is a custom tox docker image for use within CircleCI. It is used within Penn Labs to test our PyPI packages in multiple Python environments before publishing them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homelab</title>
+      <link>https://armaan.tobaccowalla.com/project/homelab/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/homelab/</guid>
+      <description>&lt;p&gt;My connected home network (or &lt;a href=&#34;https://www.reddit.com/r/homelab/wiki/introduction&#34; target=&#34;_blank&#34;&gt;Homelab&lt;/a&gt;) consists of 2 physical servers, a virtual-machine host (&lt;a href=&#34;https://www.proxmox.com/en/&#34; target=&#34;_blank&#34;&gt;Proxmox&lt;/a&gt;) and a File server (&lt;a href=&#34;https://www.freenas.org/&#34; target=&#34;_blank&#34;&gt;FreeNAS&lt;/a&gt;). Proxmox runs over 25 virtual machines and containers. The Homelab provides various services such as a software firewall, a remote SSH access server, a reverse proxy with &lt;a href=&#34;https://letsencrypt.org/&#34; target=&#34;_blank&#34;&gt;Lets Encrypt&lt;/a&gt; TLS certificates, a VPN server with certificate authentication, a wiki for internal documentation, a mail server to send external mail, and a home automation system. Some of the software using in my homelab is: FreeNAS, Gitlab, Grafana, InfluxDB, Jekyll, Mediawiki, MySQL, Nginx, OpenHAB, pfSense, Postfix, and Telegraf.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>https://armaan.tobaccowalla.com/project/templates/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/project/templates/</guid>
+      <description>&lt;p&gt;I made a collection of templates with Penn Labs&amp;rsquo; suggested configuration for various types of projects. These templates include configuration for testing, building, and deploying projects. As well as suggested application defaults.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

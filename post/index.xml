@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/post/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Fri, 23 Aug 2019 00:25:08 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>Posts</title>
+      <link>https://armaan.tobaccowalla.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://armaan.tobaccowalla.com/posts/2019/08/23/hello-world/</link>
+      <pubDate>Fri, 23 Aug 2019 00:25:08 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/posts/2019/08/23/hello-world/</guid>
+      <description>&lt;p&gt;Hello world! This is my new website. It is generated using &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; and is using the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt;. Stay tuned for more content!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://armaan.tobaccowalla.com/posts/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://armaan.tobaccowalla.com/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

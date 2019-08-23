@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/authors/armaan/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/authors/armaan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Armaan Tobaccowalla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>Armaan Tobaccowalla</title>
+      <link>https://armaan.tobaccowalla.com/authors/armaan/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Armaan Tobaccowalla</title>
+    <link>https://armaan.tobaccowalla.com/tags/</link>
+      <atom:link href="https://armaan.tobaccowalla.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Thu, 22 Aug 2019 14:42:41 -0400</lastBuildDate>
+    <image>
+      <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
+      <title>Tags</title>
+      <link>https://armaan.tobaccowalla.com/tags/</link>
+    </image>
+    
+    <item>
+      <title>devops</title>
+      <link>https://armaan.tobaccowalla.com/tags/devops/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django</title>
+      <link>https://armaan.tobaccowalla.com/tags/django/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://armaan.tobaccowalla.com/tags/docker/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economics</title>
+      <link>https://armaan.tobaccowalla.com/tags/economics/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grafana</title>
+      <link>https://armaan.tobaccowalla.com/tags/grafana/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/grafana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influxdb</title>
+      <link>https://armaan.tobaccowalla.com/tags/influxdb/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/influxdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://armaan.tobaccowalla.com/tags/javascript/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://armaan.tobaccowalla.com/tags/machine-learning/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://armaan.tobaccowalla.com/tags/nginx/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penn Labs</title>
+      <link>https://armaan.tobaccowalla.com/tags/penn-labs/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/penn-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pfsense</title>
+      <link>https://armaan.tobaccowalla.com/tags/pfsense/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/pfsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://armaan.tobaccowalla.com/tags/python/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://armaan.tobaccowalla.com/tags/react/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shibboleth</title>
+      <link>https://armaan.tobaccowalla.com/tags/shibboleth/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/shibboleth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysadmin</title>
+      <link>https://armaan.tobaccowalla.com/tags/sysadmin/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tox</title>
+      <link>https://armaan.tobaccowalla.com/tags/tox/</link>
+      <pubDate>Thu, 22 Aug 2019 14:42:41 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/tags/tox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

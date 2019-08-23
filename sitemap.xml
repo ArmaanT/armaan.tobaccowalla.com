@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/</loc>
+    <lastmod>2019-08-23T00:25:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/posts/2019/08/23/hello-world/</loc>
+    <lastmod>2019-08-23T00:25:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/post/</loc>
+    <lastmod>2019-08-23T00:25:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/devops/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/django/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/django-labs-accounts/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/docker/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/docker-shibboleth-sp-nginx/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/docker-tox/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/economics/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/grafana/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/homelab/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/influxdb/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/javascript/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/machine-learning/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/nginx/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/pennclubs/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/penn-labs/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/pfsense/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/pfsense-to-influxdb/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/platform/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/python/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/react/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/shibboleth/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/speaker-recognition/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/sysadmin/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/templates/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/tags/tox/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/project/wage-tracker/</loc>
+    <lastmod>2019-08-22T14:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/posts/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/authors/armaan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/pgp/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/projects/</loc>
+  </url>
+  
+</urlset>
