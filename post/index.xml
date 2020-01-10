@@ -5,12 +5,20 @@
     <link>https://armaan.tobaccowalla.com/post/</link>
       <atom:link href="https://armaan.tobaccowalla.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Armaan Tobaccowalla</copyright><lastBuildDate>Fri, 23 Aug 2019 00:25:08 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Armaan Tobaccowalla</copyright><lastBuildDate>Fri, 06 Sep 2019 08:33:44 -0400</lastBuildDate>
     <image>
       <url>https://armaan.tobaccowalla.com/img/profile_large.jpg</url>
       <title>Posts</title>
       <link>https://armaan.tobaccowalla.com/post/</link>
     </image>
+    
+    <item>
+      <title>Shibboleth Django</title>
+      <link>https://armaan.tobaccowalla.com/posts/2019/09/06/shibboleth-django/</link>
+      <pubDate>Fri, 06 Sep 2019 08:33:44 -0400</pubDate>
+      <guid>https://armaan.tobaccowalla.com/posts/2019/09/06/shibboleth-django/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello World</title>

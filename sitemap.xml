@@ -4,16 +4,21 @@
   
   <url>
     <loc>https://armaan.tobaccowalla.com/</loc>
-    <lastmod>2019-08-23T00:25:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://armaan.tobaccowalla.com/posts/2019/08/23/hello-world/</loc>
-    <lastmod>2019-08-23T00:25:08-04:00</lastmod>
+    <lastmod>2019-09-06T08:33:44-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://armaan.tobaccowalla.com/post/</loc>
+    <lastmod>2019-09-06T08:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/posts/2019/09/06/shibboleth-django/</loc>
+    <lastmod>2019-09-06T08:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaan.tobaccowalla.com/posts/2019/08/23/hello-world/</loc>
     <lastmod>2019-08-23T00:25:08-04:00</lastmod>
   </url>
   
@@ -83,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://armaan.tobaccowalla.com/project/pennclubs/</loc>
+    <loc>https://armaan.tobaccowalla.com/project/penn-clubs/</loc>
     <lastmod>2019-08-22T14:42:41-04:00</lastmod>
   </url>
   
